@@ -1,4 +1,4 @@
-# 14_result_app
+# Online Bank
 
 ## Project setup
 ```
